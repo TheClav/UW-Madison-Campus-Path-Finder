@@ -1,12 +1,3 @@
-/**
- * private Backend backend; 
- * private Scanner scanner;
- *
- * public Frontend(Backend backend, Scanner scanner){
- * this.backend = backend;
- * this.scanner = scanner; }
- *
- */
 public interface FrontendInterface {
 
     /*
