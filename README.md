@@ -8,5 +8,5 @@ allows for a dot file to be passed in the form of a string and then read off to 
 the thrid displayes a summary of all the buldings, paths, and costs. These results are then passed to the Frontend which are then displayed. The Frontend code creates
 a display and then changes based on various inputs.
 
-*See the video file above for a full demonstation of the functionaliy*
+*See the video demo file above for a full demonstation of the functionaliy*
 
