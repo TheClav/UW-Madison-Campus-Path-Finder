@@ -1,6 +1,6 @@
 # UW-Madison Campus Path Finder
 
-## Backend and Frontend of a fully functioning program that implents Dijkstras algorithm in Java to find the shortest path between two buildings
+## Backend and Frontend of a fully functioning program that implents Dijkstras algorithm in Java to find the shortest path between two buildings.
 
 This is the code for the Front/Backend Interfaces and the Front/Backend. My apologies for not including my implementation of Dijkstras Algoritm, but my professor
 doesnt want other students copying it. I am responsible for the code of the Backend Interface and the Backend. There are three mehtods in my Backend. The first 
