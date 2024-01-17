@@ -7,8 +7,6 @@ This is the code for the Front/Backend Interfaces and the Front/Backend. My apol
 *See the video demo file above for a full demonstation of the functionaliy*
 
 ## Code that is used by I did not write (Given by school)
--GraphADT Interface /n
--MapADT Interface /n
--PlaceholderMap Class /n
+1) GraphADT Interface 2) MapADT Interface 3) PlaceholderMap Class (This was the code for the directed graph)
 
 
